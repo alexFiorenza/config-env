@@ -16,3 +16,8 @@ keymap.set("n", "<C-a>", "gg<S-v>G")
 -- File explorer with NvimTree
 keymap.set("n", "<Leader>f", ":NvimTreeFindFile<Return>", opts)
 keymap.set("n", "<Leader>t", ":NvimTreeToggle<Return>", opts)
+
+--Tabs
+keymap.set("n", "<Leader><Tab><Tab>", ":tabnew<CR>", opts)
+keymap.set("n", "<Leader><Tab><Right>", ":tabnext<CR>", opts)
+keymap.set("n", "<Leader><Tab><Left>", ":tabprevious<CR>", opts)
