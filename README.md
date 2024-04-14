@@ -14,5 +14,8 @@
 ## Useful fixes
 - [Full Path PowerLevel10k](https://stackoverflow.com/questions/61176257/customizing-powerleve10k-prompt)
 
+## Gists
+- [Oh my zsh plugins essential](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df)
+
 
 ![Example terminal](https://github.com/alexFiorenza/config-env/assets/47326217/b8ae4a7b-751c-4a07-97cf-ed935f7bd7a9)
