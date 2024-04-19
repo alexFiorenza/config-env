@@ -14,6 +14,7 @@ return {
     opts = function(_, opts)
       local cmp = require("cmp")
 
+      opts.sources = cmp.config.sources(vim.list_extend(opts.sources, { { name = "copilot" }, { name = "emoji" } }))
       opts.mapping = vim.tbl_extend("force", opts.mapping, {
         ["<Tab>"] = cmp.mapping(function(fallback)
           -- This little snippet will confirm with tab, and if no entry is selected, will confirm the first item
