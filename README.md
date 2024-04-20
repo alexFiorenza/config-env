@@ -10,6 +10,7 @@
 - [Bat](https://github.com/sharkdp/bat)
 - [tmux](./tmux)
 - [Oh my zsh highlighting](https://github.com/zsh-users/zsh-syntax-highlighting.git)
+- [FZF](https://formulae.brew.sh/formula/fzf)
 
 ## Useful fixes
 - [Full Path PowerLevel10k](https://stackoverflow.com/questions/61176257/customizing-powerleve10k-prompt)
