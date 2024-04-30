@@ -24,10 +24,10 @@ return {
           enabled = true,
           auto_trigger = true,
           keymap = {
-            accept = "<M-Tab>",
-            next = "<M-]>",
-            prev = "<M-[>",
-            dismiss = "<C-]>",
+            accept = "<S-Tab>",
+            next = "<S-]>",
+            prev = "<S-[>",
+            dismiss = "<S-]>",
           },
         },
         filetypes = {
