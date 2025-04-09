@@ -6,8 +6,8 @@ return {
     -- you can do it like this with a config function
     config = function()
       require("catppuccin").setup({
-        flavour = "frappe", -- latte, frappe, macchiato, mocha
-        transparent_background = false,
+        flavour = "mocha", -- latte, frappe, macchiato, mocha
+        transparent_background = true,
         show_end_of_buffer = false, -- show the '~' characters after the end of buffers
         term_colors = false,
         dim_inactive = {
