@@ -52,6 +52,10 @@ return {
       render = "wrapped-compact",
     },
   },
+  {
+    "echasnovski/mini.icons",
+    enabled = false, -- disable the entire mini.icons plugin
+  },
 
   -- buffer line
   {
