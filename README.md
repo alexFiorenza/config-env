@@ -1,8 +1,9 @@
 # Dev environment
 
-- 💤 LazyVim
-- 🐱 [Catpuccino Warp Mocha](https://github.com/catppuccin/warp)
-- 🚀 [Powerlevel10k](<[https://spaceship-prompt.sh/](https://github.com/romkatv/powerlevel10k)>)
+- 💤 [LazyVim](https://www.lazyvim.org/) — Neovim distro
+- 🟫 [Gruvbox (nvim)](https://github.com/ellisonleao/gruvbox.nvim) — Neovim colorscheme
+- 🟫 [Gruvbox (tmux)](https://github.com/egel/tmux-gruvbox) — matching tmux theme
+- 🚀 [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Oh my zsh config](https://gist.github.com/alexFiorenza/2146d5431f58858cc271a31891eec3fb)
 
 ### Useful tools
