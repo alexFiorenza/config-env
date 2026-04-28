@@ -53,7 +53,7 @@ return {
     },
   },
   {
-    "echasnovski/mini.icons",
+    "nvim-mini/mini.icons",
     enabled = false, -- disable the entire mini.icons plugin
   },
 
